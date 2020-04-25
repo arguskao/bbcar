@@ -6,28 +6,9 @@
     <description>Recent content in Categories on 雙B車主的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://car.liverx.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>台灣</title>
-      <link>https://car.liverx.org/categories/%E5%8F%B0%E7%81%A3/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://car.liverx.org/categories/%E5%8F%B0%E7%81%A3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>黑心工廠</title>
-      <link>https://car.liverx.org/categories/%E9%BB%91%E5%BF%83%E5%B7%A5%E5%BB%A0/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://car.liverx.org/categories/%E9%BB%91%E5%BF%83%E5%B7%A5%E5%BB%A0/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
