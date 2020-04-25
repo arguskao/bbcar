@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://car.liverx.org/post/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://car.liverx.org/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://car.liverx.org/post/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://car.liverx.org/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://car.liverx.org/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>https://car.liverx.org/categories/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://car.liverx.org/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://car.liverx.org/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <loc>https://car.liverx.org/tags/%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://car.liverx.org/post/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <loc>https://car.liverx.org/categories/%E5%8F%B0%E7%81%A3/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://car.liverx.org/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://car.liverx.org/categories/%E9%BB%91%E5%BF%83%E5%B7%A5%E5%BB%A0/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://car.liverx.org/post/%E9%BB%91%E5%BF%83%E8%97%BB%E6%B2%B9%E8%86%A0%E5%9B%8A/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://car.liverx.org/tags/scene/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,12 +75,6 @@
   <url>
     <loc>https://car.liverx.org/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://car.liverx.org/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
