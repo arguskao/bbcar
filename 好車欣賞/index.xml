@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>好車買賣 on 雙B車主的世界</title>
+    <link>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/</link>
+    <description>Recent content in 好車買賣 on 雙B車主的世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>要選哪個B</title>
+      <link>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/benz1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/benz1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>要選哪個B</title>
+      <link>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/bmw1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/bmw1/</guid>
+      <description>測試H2 測試H3 我的好人</description>
+    </item>
+    
+  </channel>
+</rss>
