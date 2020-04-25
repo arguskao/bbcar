@@ -93,12 +93,6 @@
   </url>
   
   <url>
-    <loc>https://car.liverx.org/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://car.liverx.org/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
