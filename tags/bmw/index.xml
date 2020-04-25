@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>雙B車主的世界</title>
-    <link>https://car.liverx.org/</link>
-    <description>Recent content on 雙B車主的世界</description>
+    <title>BMW on 雙B車主的世界</title>
+    <link>https://car.liverx.org/tags/bmw/</link>
+    <description>Recent content in BMW on 雙B車主的世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://car.liverx.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://car.liverx.org/tags/bmw/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>W212</title>
-      <link>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/benz1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://car.liverx.org/%E5%A5%BD%E8%BB%8A%E6%AC%A3%E8%B3%9E/benz1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>什麼人不要買中古車</title>
       <link>https://car.liverx.org/post/%E4%BB%80%E9%BA%BC%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%B2%B7/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
@@ -54,24 +45,6 @@
       
       <guid>https://car.liverx.org/post/%E5%A4%9A%E5%B0%91%E9%8C%A2%E8%B2%B7%E4%BA%8C%E6%89%8B%E8%BB%8A/</guid>
       <description>測試H2 測試H3 我的好人</description>
-    </item>
-    
-    <item>
-      <title>聯絡我</title>
-      <link>https://car.liverx.org/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://car.liverx.org/contact/</guid>
-      <description>我喜歡二手車，是因為我吝嗇，不想多花一分錢在無謂的地方，當然你如果是富二代，或者是田僑仔，請出門右轉！ 想要聊天，歡迎加入！</description>
-    </item>
-    
-    <item>
-      <title>關於我</title>
-      <link>https://car.liverx.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://car.liverx.org/about/</guid>
-      <description>我第一台車是新車福特，是金全壘打，我存了很多年的錢，才湊夠錢買的，雖然是買新車，不過過程中也沒有太愉快！ 第二台車是現代的新車，雖然是進口車，</description>
     </item>
     
   </channel>
