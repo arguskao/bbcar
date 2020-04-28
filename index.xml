@@ -1,23 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>雙B車主的世界</title>
+    <title>中古雙B車主</title>
     <link>https://car.liverx.org/</link>
-    <description>Recent content on 雙B車主的世界</description>
+    <description>Recent content on 中古雙B車主</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 27 Apr 2020 19:05:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 00:26:07 +0800</lastBuildDate>
     
 	<atom:link href="https://car.liverx.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>要選BENZ還是BMW</title>
-      <link>https://car.liverx.org/2020/04/27/%E8%A6%81%E9%81%B8benz%E9%82%84%E6%98%AFbmw/</link>
-      <pubDate>Mon, 27 Apr 2020 19:05:59 +0800</pubDate>
+      <title>要怎麼挑中古車</title>
+      <link>https://car.liverx.org/2020/04/29/%E8%A6%81%E6%80%8E%E9%BA%BC%E6%8C%91%E4%B8%AD%E5%8F%A4%E8%BB%8A/</link>
+      <pubDate>Wed, 29 Apr 2020 00:26:07 +0800</pubDate>
       
-      <guid>https://car.liverx.org/2020/04/27/%E8%A6%81%E9%81%B8benz%E9%82%84%E6%98%AFbmw/</guid>
+      <guid>https://car.liverx.org/2020/04/29/%E8%A6%81%E6%80%8E%E9%BA%BC%E6%8C%91%E4%B8%AD%E5%8F%A4%E8%BB%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中古車的奮鬥過程</title>
+      <link>https://car.liverx.org/2020/04/26/%E4%B8%AD%E5%8F%A4%E8%BB%8A%E7%9A%84%E5%A5%AE%E9%AC%A5%E9%81%8E%E7%A8%8B/</link>
+      <pubDate>Sun, 26 Apr 2020 17:20:58 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/26/%E4%B8%AD%E5%8F%A4%E8%BB%8A%E7%9A%84%E5%A5%AE%E9%AC%A5%E9%81%8E%E7%A8%8B/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不願意買中古車的人都是因為麻煩，覺得中古車需要整理花很多錢！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>當初為何買中古車</title>
+      <link>https://car.liverx.org/2020/04/23/%E7%95%B6%E5%88%9D%E7%82%BA%E4%BD%95%E8%B2%B7%E4%B8%AD%E5%8F%A4%E8%BB%8A/</link>
+      <pubDate>Thu, 23 Apr 2020 16:18:29 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/23/%E7%95%B6%E5%88%9D%E7%82%BA%E4%BD%95%E8%B2%B7%E4%B8%AD%E5%8F%A4%E8%BB%8A/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我不知道別人為何買中古車，但是我真的是因為很有趣的原因買的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BMW車型簡介</title>
+      <link>https://car.liverx.org/2020/04/20/bmw%E8%BB%8A%E5%9E%8B%E7%B0%A1%E4%BB%8B/</link>
+      <pubDate>Mon, 20 Apr 2020 19:06:30 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/20/bmw%E8%BB%8A%E5%9E%8B%E7%B0%A1%E4%BB%8B/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/bmw3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BENZ車型簡介</title>
+      <link>https://car.liverx.org/2020/04/17/benz%E8%BB%8A%E5%9E%8B%E7%B0%A1%E4%BB%8B/</link>
+      <pubDate>Fri, 17 Apr 2020 19:06:16 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/17/benz%E8%BB%8A%E5%9E%8B%E7%B0%A1%E4%BB%8B/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>要選BENZ還是BMW</title>
+      <link>https://car.liverx.org/2020/04/12/%E8%A6%81%E9%81%B8benz%E9%82%84%E6%98%AFbmw/</link>
+      <pubDate>Sun, 12 Apr 2020 19:05:59 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/12/%E8%A6%81%E9%81%B8benz%E9%82%84%E6%98%AFbmw/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>常見問題收集</title>
+      <link>https://car.liverx.org/2020/04/07/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E6%94%B6%E9%9B%86/</link>
+      <pubDate>Tue, 07 Apr 2020 19:06:48 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/07/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E6%94%B6%E9%9B%86/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>雙B真的養不起？</title>
+      <link>https://car.liverx.org/2020/04/02/%E9%9B%99b%E7%9C%9F%E7%9A%84%E9%A4%8A%E4%B8%8D%E8%B5%B7/</link>
+      <pubDate>Thu, 02 Apr 2020 19:07:05 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/2020/04/02/%E9%9B%99b%E7%9C%9F%E7%9A%84%E9%A4%8A%E4%B8%8D%E8%B5%B7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;你以為雙b不好養是聽說的嗎&#34;&gt;你以為雙B不好養，是聽說的嗎？&lt;/h2&gt;
+&lt;p&gt;幾乎所有人都知道，買車容易養車難，但是如果把養車的費用仔細分開來算，就會知道養新的國產車和中古雙B來說，到底差別在哪裡？&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,28 +96,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;不要以為窮才買中古車&#34;&gt;不要以為窮才買中古車&lt;/h2&gt;
 &lt;p&gt;傳統嘲笑買中古車的人，都以為中古車是窮人在買的，當然不可否認很多人的確是因為經濟的情況，需要買一台可能十萬元左右的二手車。&lt;font color=&#34;red&#34;&gt;但是真正懂的省錢的人，是可能用國產新車的價格買一台中古雙B的。&lt;/font&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>雙B真的養不起？</title>
-      <link>https://car.liverx.org/2020/03/27/%E9%9B%99b%E7%9C%9F%E7%9A%84%E9%A4%8A%E4%B8%8D%E8%B5%B7/</link>
-      <pubDate>Fri, 27 Mar 2020 19:07:05 +0800</pubDate>
-      
-      <guid>https://car.liverx.org/2020/03/27/%E9%9B%99b%E7%9C%9F%E7%9A%84%E9%A4%8A%E4%B8%8D%E8%B5%B7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;你以為雙b不好養是聽說的嗎&#34;&gt;你以為雙B不好養，是聽說的嗎？&lt;/h2&gt;
-&lt;p&gt;幾乎所有人都知道，買車容易養車難，但是如果把養車的費用仔細分開來算，就會知道養新的國產車和中古雙B來說，到底差別在哪裡？&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>要如何挑中古車商</title>
-      <link>https://car.liverx.org/2020/03/20/%E8%A6%81%E5%A6%82%E4%BD%95%E6%8C%91%E4%B8%AD%E5%8F%A4%E8%BB%8A%E5%95%86/</link>
-      <pubDate>Fri, 20 Mar 2020 19:05:28 +0800</pubDate>
-      
-      <guid>https://car.liverx.org/2020/03/20/%E8%A6%81%E5%A6%82%E4%BD%95%E6%8C%91%E4%B8%AD%E5%8F%A4%E8%BB%8A%E5%95%86/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;網路時代騙子更多&#34;&gt;網路時代騙子更多&lt;/h2&gt;
-&lt;p&gt;自從有了網路以後，改變了我們的生活，也改變了二手車市場的生態。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,16 +111,6 @@
     </item>
     
     <item>
-      <title>中古車的奮鬥過程</title>
-      <link>https://car.liverx.org/2020/03/17/%E4%B8%AD%E5%8F%A4%E8%BB%8A%E7%9A%84%E5%A5%AE%E9%AC%A5%E9%81%8E%E7%A8%8B/</link>
-      <pubDate>Tue, 17 Mar 2020 17:20:58 +0800</pubDate>
-      
-      <guid>https://car.liverx.org/2020/03/17/%E4%B8%AD%E5%8F%A4%E8%BB%8A%E7%9A%84%E5%A5%AE%E9%AC%A5%E9%81%8E%E7%A8%8B/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;不願意買中古車的人都是因為麻煩，覺得中古車需要整理花很多錢！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>哪種人才適合買二手車</title>
       <link>https://car.liverx.org/2020/03/09/%E5%93%AA%E7%A8%AE%E4%BA%BA%E6%89%8D%E9%81%A9%E5%90%88%E8%B2%B7%E4%BA%8C%E6%89%8B%E8%BB%8A/</link>
       <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
@@ -85,16 +120,6 @@
 &lt;h2 id=&#34;如果你想買二手車請看看你是不是以下的這八種人&#34;&gt;如果你想買二手車，請看看你是不是以下的這八種人&lt;/h2&gt;
 &lt;h3 id=&#34;覺得人多就是對的&#34;&gt;覺得人多就是對的&lt;/h3&gt;
 &lt;p&gt;這世界上有兩種人，一種是喜歡跟隨潮流的，人家買房子，他買房子，人家買車，他也想要有一台車，根本不問自己需要不需要，反正大家有的，我就要有。&lt;br/&gt;&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>當初為何買中古車</title>
-      <link>https://car.liverx.org/2020/03/02/%E7%95%B6%E5%88%9D%E7%82%BA%E4%BD%95%E8%B2%B7%E4%B8%AD%E5%8F%A4%E8%BB%8A/</link>
-      <pubDate>Mon, 02 Mar 2020 16:18:29 +0800</pubDate>
-      
-      <guid>https://car.liverx.org/2020/03/02/%E7%95%B6%E5%88%9D%E7%82%BA%E4%BD%95%E8%B2%B7%E4%B8%AD%E5%8F%A4%E8%BB%8A/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://car.liverx.org/images/benz1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;我不知道別人為何買中古車，但是我真的是因為很有趣的原因買的。&lt;/p&gt;</description>
     </item>
     
     <item>
