@@ -6,9 +6,46 @@
     <description>Recent content in Categories on 中古雙B車主</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <lastBuildDate>Wed, 29 Apr 2020 19:05:28 +0800</lastBuildDate>
     
 	<atom:link href="https://car.liverx.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>觀念介紹</title>
+      <link>https://car.liverx.org/categories/%E8%A7%80%E5%BF%B5%E4%BB%8B%E7%B4%B9/</link>
+      <pubDate>Wed, 29 Apr 2020 19:05:28 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/categories/%E8%A7%80%E5%BF%B5%E4%BB%8B%E7%B4%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BMW</title>
+      <link>https://car.liverx.org/categories/bmw/</link>
+      <pubDate>Mon, 20 Apr 2020 19:06:30 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/categories/bmw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BENZ</title>
+      <link>https://car.liverx.org/categories/benz/</link>
+      <pubDate>Fri, 17 Apr 2020 19:06:16 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/categories/benz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>維修保養</title>
+      <link>https://car.liverx.org/categories/%E7%B6%AD%E4%BF%AE%E4%BF%9D%E9%A4%8A/</link>
+      <pubDate>Tue, 07 Apr 2020 19:06:48 +0800</pubDate>
+      
+      <guid>https://car.liverx.org/categories/%E7%B6%AD%E4%BF%AE%E4%BF%9D%E9%A4%8A/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
